@@ -46,7 +46,7 @@
 
 ## 📣 Let’s Connect
 
-- 🌐 Portfolio: Coming Soon!
+- 🌐 Portfolio: [divyviradiya.com](https://divyviradiya.vercel.app)
 - 💬 Telegram Projects: Ask me!
 - 📧 Email: [divyviradiya2@gmail.com](mailto:divyviradiya2@gmail.com)
 
